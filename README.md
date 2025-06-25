@@ -39,7 +39,9 @@ Profile_card/
 1. Clone the repository:
    ```bash
    git clone https://github.com/Swishxo/Profile_card.git
+   
 cd Profile_card
+
 Open "index.html" in your browser.
 
 Made with ❤️ by Swishxo
