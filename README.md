@@ -12,11 +12,6 @@ Coming soon.
 - HTML5 and modern CSS3 techniques
 - Hover effects and card styling
 
-## 📁 Project Structure
-Profile_card/
-├── index.html
-└── style.css
-
 
 ## 🛠️ Technologies Used
 
